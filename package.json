@@ -10,12 +10,12 @@
   "categories": [
     "Themes"
   ],
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
         "label": "OTL Theme",
-        "path": "./themes/otl-theme.json",
+        "path": "themes/otl-theme.json",
         "uiTheme": "vs-dark"
       }
     ]

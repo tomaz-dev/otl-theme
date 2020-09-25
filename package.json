@@ -1,6 +1,6 @@
 {
-  "name": "otl-theme",
-  "displayName": "OTL Theme",
+  "name": "otl-theme-color-fixed",
+  "displayName": "OTL Theme Color Fixed",
   "description": "Fork of MCEdit, w/ font ligatures and some quality of life enhancements",
   "version": "0.0.5",
   "publisher": "TalasanNicholson",

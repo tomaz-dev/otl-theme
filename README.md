@@ -9,6 +9,8 @@ Keeps you up at night for 16hr marathons.
 ![](https://raw.githubusercontent.com/outthislife/otl-theme/master/screenshot.png).
 
 ## Local install
-  npm install -g vsce
-  vsce package
-  code --install-extension otl-theme-color-fixed-0.0.5.vsix
+<pre>
+npm install -g vsce
+vsce package
+code --install-extension otl-theme-color-fixed-0.0.5.vsix
+</pre>

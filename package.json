@@ -3,7 +3,7 @@
   "displayName": "OTL Theme",
   "description": "Fork of MCEdit, w/ font ligatures and some quality of life enhancements",
   "version": "0.0.5",
-  "publisher": "Talasan Nicholson",
+  "publisher": "TalasanNicholson",
   "engines": {
     "vscode": "^1.44.0"
   },
